@@ -23,4 +23,4 @@ Nesse projeto trabalharemos com a base de dados de produtos de um supermercado d
 
 As colunas que aparecem com valores 0 são para os produtos onde não tivemos descontos aplicados.
 
-As categorias estão em espanhol!
+As categorias estão em espanhol! Que em seguida foram traduzidas

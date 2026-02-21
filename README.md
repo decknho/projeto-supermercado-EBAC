@@ -1,5 +1,5 @@
 # Projeto - Fundamentos da Descoberta de Dados
- Nesse projeto trabalharemos com a base de dados de produtos de um supermercado do Chile.
+Nesse projeto trabalharemos com a base de dados de produtos de um supermercado do Chile.
 
 ### Os campos do nosso dataframe são:
 
